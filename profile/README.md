@@ -18,9 +18,9 @@ Join the GuerrillaTools community and transform the way you trade on Pump.fun!
 ## 🦍 GuerrillaTool Sniping Menu
 Our flagship Pump.fun Launch Bot is your secret weapon for smarter, faster trades. Set up your wallets and tokens effortlessly, and let our bot handle the heavy lifting. Here’s how it works:
 
-Wallet Setup: Configure your wallets for seamless sniping operations.
-Token Creation: Create the hottest Pump.fun tokens with ease.
-Fast Execution: Strike at the perfect moment to outpace the competition.
++ Wallet Setup: Configure and fund your wallets for seamless sniping operations.
++ Token Creation: Create the hottest Pump.fun tokens with ease.
++ Fast Execution: Private RPC node to outpace the competition.
 
 ## 🛠️ Get Started
 Ready to dive in? Join the GuerrillaTools revolution:

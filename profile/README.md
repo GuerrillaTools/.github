@@ -1,5 +1,11 @@
 # 🦍 GuerrillaTools – Your Pump.fun Powerhouse 💥
-### GuerrillaTools equips crypto traders with cutting-edge tools to dominate the Pump.fun ecosystem. Whether you're a seasoned degen or a newcomer navigating the trenches, our Pump.fun Launch Bot empowers you to seize opportunities and turn volatility into profit.
+GuerrillaTools equips crypto traders with cutting-edge tools to dominate the Pump.fun ecosystem. Whether you're a seasoned degen or a newcomer navigating the trenches, our Pump.fun Launch Bot empowers you to seize opportunities and turn volatility into profit.
+<p>
+  <a href="https://t.me/GuerrillaTool"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://guerrillatools.xyz"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://x.com/GuerrillaTool"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</p>
+
 ## 🚀 What We Offer
 Our mission is to arm you with the tools and strategies to thrive in the fast-paced world of Pump.fun tokens. With GuerrillaTools, you can:
 
@@ -26,12 +32,6 @@ See GuerrillaTools in action:
 
 ![sneak_peak.jpg](https://github.com/GuerrillaTools/.github/blob/main/sneak_peak.jpg)
 
-Sniping tokens with precision and speed.
-
-## 📬 Contact Us
-
-📧 Telegram: [GuerrillaTool](https://t.me/GuerrillaTool)
-🌐 Website: guerrillaTools.xyz
-🐦 Twitter: [@GuerrillaTool](https://x.com/GuerrillaTool)
+Sniping tokens with precision and speed!
 
 GuerrillaTools: Built for degens, by degens. Let’s conquer the Pump.fun trenches together! 💪

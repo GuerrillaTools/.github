@@ -1,9 +1,10 @@
 # 🦍 GuerrillaTools – Your Pump.fun Powerhouse 💥
 GuerrillaTools equips crypto traders with cutting-edge tools to dominate the Pump.fun ecosystem. Whether you're a seasoned degen or a newcomer navigating the trenches, our Pump.fun Launch Bot empowers you to seize opportunities and turn volatility into profit.
+
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40GuerrillaTools)](https://x.com/GuerrillaTool)
 <p>
   <a href="https://t.me/GuerrillaTool"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="https://guerrillatools.xyz"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://x.com/GuerrillaTool"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
 ## 🚀 What We Offer

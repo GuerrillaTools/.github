@@ -23,6 +23,9 @@ Contribute: Got ideas? Reach out to us on X or Telegram with ideas and feedback!
 
 ## 📸 Showcase
 See GuerrillaTools in action:
+
+![sneak_peak.jpg](https://github.com/GuerrillaTools/.github/blob/main/sneak_peak.jpg)
+
 Sniping tokens with precision and speed.
 
 ## 📬 Contact Us
